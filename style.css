@@ -1,0 +1,102 @@
+img{
+    width: 15%;
+    margin-left: -25px;
+    
+}
+    
+
+svg{
+    width: 20px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    
+
+    
+}
+.icon{
+    display: flex;
+    gap: 15px;
+}
+.left-side{
+    margin-top: -30px;
+    display: flex;
+}
+.header > .left-side{
+    margin-right: 20px;
+}
+input{
+    width: 700px;
+    height: 50px;
+    margin-top: 30px;
+    border-color: aliceblue;
+    border-style: outset;
+}
+.lower{
+    display: flex;
+    gap: 30%;
+    margin-left: 110px;
+}
+
+ a{
+
+    margin: 8px;
+    text-decoration: none;
+    color: black;
+}
+.topper{
+    border: 1px solid red;
+    background: rgb(218, 218, 218);
+}
+.figure{
+    color: gray;
+}
+h3{
+    color: blueviolet;
+   margin-bottom: -20px;
+   margin-top: 37px;
+    
+}
+p{
+margin-top: 30px;
+}
+.down-part{
+    margin-left: 140px;
+}
+.grow > a{
+    color: rgb(40, 245, 40);
+}
+.table{
+    border: 1px solid black;
+    width: 60%;
+    margin-top: 40px;
+}
+.quary{
+    color: blueviolet;
+    margin-top: -15px;
+}
+.group > a{
+    color: blue;
+    text-decoration: underline;
+}
+    
+
+.bomb{  color: rgb(40, 245, 40);
+}
+strong{
+    color: rgb(51, 50, 50);
+}
+.sample{
+    color: red;
+}
+.left-side > svg{
+    padding-right: 175px;
+}
+
+@media (max-width: 450px) {
+     .general-container { width: 50px;
+        height: 50px;
+
+}
+}
